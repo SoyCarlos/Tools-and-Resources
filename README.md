@@ -72,6 +72,13 @@ Just a collection of tools, apps, services, and resources for programming projec
 ## Email
 1. [Resend](https://resend.com/) - Free tier
 
+## Link Shortening and QR Codes
+1. [Dub](https://dub.co/) - Free tier
+2. [Shlink](https://shlink.io/) - Open Source
+3. [YOURLS](https://yourls.org/) - Open Source
+4. [Kutt](https://kutt.it/) - Open Source
+5. [qr.carlos.soy](https://qr.carlos.soy/) - Free
+
 ## Payments, Billing, and Monetization
 1. [Stripe](https://stripe.com/) - Paid
 2. [Lemon Squeezy](https://www.lemonsqueezy.com/) - Paid
