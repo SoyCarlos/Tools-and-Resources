@@ -152,7 +152,7 @@ Just a collection of tools, apps, services, and resources for programming projec
 ## Media and Image CDNs
 1. [imgCDN](https://imgcdn.dev/) - Paid
 2. [Cloudinary](https://cloudinary.com/) - Free tier
-3. [ImageKit](https://imagekit.io/) - Free tier
+3. [ImageKit](https://imagekAit.io/) - Free tier
 4. [Uploadcare](https://uploadcare.com/) - Paid
 5. [BunnyCDN](https://bunny.net/) - Paid
 
@@ -179,3 +179,6 @@ Just a collection of tools, apps, services, and resources for programming projec
 1. [Namecheap](https://www.namecheap.com/) - Paid
 2. [Gandi](https://www.gandi.net/) - Paid
 3. [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/) - Paid
+
+## Forms
+1. [Fido Forms](https://www.fidoforms.com/) - Free
