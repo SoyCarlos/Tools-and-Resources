@@ -60,6 +60,11 @@ Just a collection of tools, apps, services, and resources for programming projec
 1. [Prisma](https://www.prisma.io/) - Open Source
 2. [Drizzle ORM](https://orm.drizzle.team/) - Open Source
 
+## Low-code and Internal Tools
+1. [Retool](https://retool.com/) - Paid
+2. [Budibase](https://budibase.com/) - Open Source
+3. [Appsmith](https://www.appsmith.com/) - Open Source
+
 ## Monitoring, Analytics, and Alerts
 1. [Upstat](https://upstat.io/) - Paid
 2. [PostHog](https://posthog.com/) - Open Source - Free tier
@@ -143,6 +148,13 @@ Just a collection of tools, apps, services, and resources for programming projec
 3. [Font Awesome](https://fontawesome.com/) - Free tier
 4. [The Noun Project](https://thenounproject.com/) - Free tier
 5. [Lucide](https://lucide.dev/) - Open Source - Free
+
+## Media and Image CDNs
+1. [imgCDN](https://imgcdn.dev/) - Paid
+2. [Cloudinary](https://cloudinary.com/) - Free tier
+3. [ImageKit](https://imagekit.io/) - Free tier
+4. [Uploadcare](https://uploadcare.com/) - Paid
+5. [BunnyCDN](https://bunny.net/) - Paid
 
 ## Images
 1. [Picjumbo](https://picjumbo.com/) - Free
