@@ -109,6 +109,7 @@ Just a collection of tools, apps, services, and resources for programming projec
 4. [Turso](https://turso.tech/) - Free tier
 5. [MongoDB Atlas](https://www.mongodb.com/atlas/database) - Free tier
 6. [Upstash (Redis/Kafka)](https://upstash.com/) - Free tier
+7. [SpacetimeDB](https://spacetimedb.com/home) - Free tier
 
 ## Documentation
 1. [DBDocs](https://dbdocs.io/) - Free tier
